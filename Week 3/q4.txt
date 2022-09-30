@@ -1,0 +1,12 @@
+a) $t0 = 0x10010000
+b) $t0 = 666 (int)
+c) $t0 = '666' (char)
+d) $t0 = 666 (int)
+e) $t1 = 0x10010008
+   $t0 = 1
+f) $t1 = 0x10010008
+   $t0 = 5 (address loaded from is 0x10010010)
+g) $t1 = 8
+   $t0 = 5 (address loaded from is 0x10010010)
+h) $t1 = 0x10010008
+   ??? Memory alignment error for $t0 (address accessed 0x1001000A) 
