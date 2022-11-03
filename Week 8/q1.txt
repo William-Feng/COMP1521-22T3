@@ -1,0 +1,8 @@
+a) /home/cs1521/web/
+b) /
+c) ..
+d) cat is a file
+e) home is a directory
+f) tty0 is a character special file
+g) 
+h) 
